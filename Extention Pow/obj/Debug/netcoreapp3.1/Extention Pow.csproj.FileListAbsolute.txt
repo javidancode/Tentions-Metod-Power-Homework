@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\Extention Pow\Extention Pow\Extention Pow\bin\Debug\netcoreapp3.1\Extention Pow.exe
+C:\Users\ASUS\source\repos\Extention Pow\Extention Pow\Extention Pow\bin\Debug\netcoreapp3.1\Extention Pow.deps.json
+C:\Users\ASUS\source\repos\Extention Pow\Extention Pow\Extention Pow\bin\Debug\netcoreapp3.1\Extention Pow.runtimeconfig.json
+C:\Users\ASUS\source\repos\Extention Pow\Extention Pow\Extention Pow\bin\Debug\netcoreapp3.1\Extention Pow.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\Extention Pow\Extention Pow\Extention Pow\bin\Debug\netcoreapp3.1\Extention Pow.dll
+C:\Users\ASUS\source\repos\Extention Pow\Extention Pow\Extention Pow\bin\Debug\netcoreapp3.1\Extention Pow.pdb
+C:\Users\ASUS\source\repos\Extention Pow\Extention Pow\Extention Pow\obj\Debug\netcoreapp3.1\Extention Pow.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Extention Pow\Extention Pow\Extention Pow\obj\Debug\netcoreapp3.1\Extention Pow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Extention Pow\Extention Pow\Extention Pow\obj\Debug\netcoreapp3.1\Extention Pow.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Extention Pow\Extention Pow\Extention Pow\obj\Debug\netcoreapp3.1\Extention Pow.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Extention Pow\Extention Pow\Extention Pow\obj\Debug\netcoreapp3.1\Extention Pow.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Extention Pow\Extention Pow\Extention Pow\obj\Debug\netcoreapp3.1\Extention Pow.dll
+C:\Users\ASUS\source\repos\Extention Pow\Extention Pow\Extention Pow\obj\Debug\netcoreapp3.1\Extention Pow.pdb
+C:\Users\ASUS\source\repos\Extention Pow\Extention Pow\Extention Pow\obj\Debug\netcoreapp3.1\Extention Pow.genruntimeconfig.cache
